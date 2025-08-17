@@ -32,3 +32,4 @@ Helps in bypassing geo-restricted sites	Does not protect against malicious websi
 
 Outcome:
 Through this hands-on exercise, I gained practical experience in installing and using a VPN. I verified IP masking and encryption of traffic. I also understood how VPNs enhance online privacy and the limitations of free VPN services.
+<img width="1536" height="1024" alt="ChatGPT Image Aug 17, 2025, 05_47_06 PM" src="https://github.com/user-attachments/assets/a3b487e0-78ee-4e9b-af29-290342373e9a" />
