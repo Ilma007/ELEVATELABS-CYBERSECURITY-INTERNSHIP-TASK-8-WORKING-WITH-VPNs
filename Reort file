@@ -1,0 +1,105 @@
+✅ Step-by-Step Task Execution
+
+Step 1 – Choose a Free VPN
+Selected ProtonVPN (Free Tier) due to its good privacy policy and secure infrastructure.
+
+Step 2 – Create Account & Install Client
+
+Went to https://protonvpn.com/
+
+Clicked Get ProtonVPN Free
+
+Registered using email and verified the address
+
+Downloaded the Windows/Android application
+
+Installed the client and logged in
+
+Step 3 – Connect to VPN Server
+
+Launched ProtonVPN client
+
+From the list of free servers, selected the nearest server (India – Free Server)
+
+Clicked Connect → VPN connection successfully established
+
+Step 4 – Verify IP Address
+
+Opened browser and visited https://whatismyipaddress.com
+
+Noted down original IP before connection
+
+Verified that IP has changed after enabling VPN
+👉 IP location showing Switzerland (Proton server) instead of actual location.
+
+Step 5 – Confirm Encrypted Traffic
+
+Visited https://www.google.com <br>
+
+Used browser’s lock icon to check “Connection is secure”
+
+All requests are HTTPS encrypted and routed through VPN
+
+Step 6 – Disconnect VPN and Compare
+
+Disconnected from ProtonVPN
+
+Reloaded whatismyipaddress.com
+
+IP reverted to original
+
+Slight increase in speed after disconnect (VPN connection had ~15-20% slower browsing)
+
+Step 7 – Research VPN Encryption & Privacy Features
+
+ProtonVPN uses AES-256 encryption, Perfect Forward Secrecy, OpenVPN/IKEv2 protocols
+
+Includes no-log policy and Secure Core (routing via multiple servers for extra protection)
+
+Step 8 – Summary – VPN Benefits & Limitations
+
+Benefits:
+• Protects identity and hides IP
+• Encrypts internet traffic
+• Protects on public Wi-Fi
+• Useful to bypass geo-restrictions
+
+Limitations:
+• Free tier servers may be limited and slow
+• Some websites block traffic from VPN IPs
+• VPN cannot protect against phishing/malware
+
+📝 Report – Working with VPNs (Task 8)
+
+Objective:
+To understand and practically experience the use of VPNs in protecting privacy and securing online communication.
+
+Tools Used:
+ProtonVPN (Free Tier)
+
+Steps Performed:
+
+Selected ProtonVPN as a reputable free VPN service and created a free account.
+
+Downloaded and installed the ProtonVPN client application.
+
+Opened the application and connected to a nearby VPN server (Free India Server).
+
+Verified change in IP address using whatismyipaddress.com. The displayed IP location changed, confirming successful VPN connection.
+
+Accessed a secure website and verified that traffic was encrypted via HTTPS and routed through the VPN tunnel.
+
+Disconnected from VPN and rechecked the IP to observe the reversal to original address. Also experienced a slightly faster browsing speed after disconnection.
+
+Researched ProtonVPN features and found that it uses AES-256 encryption, OpenVPN/IKEv2 protocols, no log policy, and offers Secure Core architecture for enhanced privacy.
+
+Summary of VPN Benefits and Limitations:
+
+Benefits	Limitations
+Masks IP address and hides user identity	Free servers can be slow
+Encrypts all network traffic	Limited server locations in free version
+Offers safety when using public Wi-Fi	Certain websites block VPN access
+Helps in bypassing geo-restricted sites	Does not protect against malicious websites/phishing
+
+Outcome:
+Through this hands-on exercise, I gained practical experience in installing and using a VPN. I verified IP masking and encryption of traffic. I also understood how VPNs enhance online privacy and the limitations of free VPN services.
